@@ -1,5 +1,8 @@
 # RecyclerViewSprawdzian
 
+![image](https://user-images.githubusercontent.com/82050305/199949364-c45c37ec-a5ed-4a85-bf7c-f76d4fcc8205.png)
+
+
 ```java
 package com.example.recyclerview;
 
