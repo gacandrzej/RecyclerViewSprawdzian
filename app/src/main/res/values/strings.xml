@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="dogs">
+        <item>mops</item>
+        <item>buldog</item>
+        <item>terier</item>
+        <item>mops</item>
+        <item>mops</item>
+        <item>mops</item>
+        <item>mops</item>
+        <item>mops</item>
+        <item>mops</item>
+    </string-array>
+</resources>
